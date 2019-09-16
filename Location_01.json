@@ -1,0 +1,24 @@
+{
+  "id":1,
+  "account_id":1,
+  "account_membership_id":null,
+  "locatable_type":"Trip",
+  "locatable_id":2000,
+  "date":"2018-01-30T23:36:07.000-06:00",
+  "created_at":"2018-01-30T23:37:12.976-06:00",
+  "updated_at":"2018-01-30T23:37:19.776-06:00",
+  "location":"POINT (-86.80733702153601 33.44619284852729)",
+  "vehicle_id":1,
+  "contact_id":151274,
+  "address":"1777 Main Sr, Birmingham, AL 35216, USA",
+  "address_components":{
+    "street_number":"123",
+    "street":"Main St",
+    "city":"Birmingham",
+    "region":"Alabama",
+    "region_short":"AL",
+    "country":"United States",
+    "country_short":"US",
+    "postal_code":"35216"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id":2,
+  "account_id":1,
+  "account_membership_id":null,
+  "locatable_type":"Trip",
+  "locatable_id":2000,
+  "date":"2018-01-30T23:36:07.000-06:00",
+  "created_at":"2018-01-30T23:37:12.976-06:00",
+  "updated_at":"2018-01-30T23:37:19.776-06:00",
+  "location":"POINT (41.041790 -80.760590)",
+  "vehicle_id":2 ,
+  "contact_id":151274,
+  "address":"589 West Manchester Lane Canfield, OH 44406, USA",
+  "address_components":{
+    "street_number":"589",
+    "street":"West Manchester Lane Canfield",
+    "city":"Canfield",
+    "region":"Ohio",
+    "region_short":"OH",
+    "country":"United States",
+    "country_short":"US",
+    "postal_code":"44406"
+  }
+}
